@@ -1,4 +1,5 @@
 
+#iremos criar uma class que ira receber a altura e largura e assim irá calcular area e o perimetro, logo em seguida iremos imprimir todos os valores calculados
 
 class Retangulo:
     def __init__(self, largura, altura):
@@ -23,10 +24,8 @@ class Retangulo:
 
 
 retangulo = Retangulo(5, 10) #criamos uma instancia para o retangulo
-
-print(f"Largura: {retangulo.largura}")  
-print(f"Altura: {retangulo.altura}")    
-print(f"Área: {retangulo.area}")       
-print(f"Perímetro: {retangulo.perimetro}")  
+    
+print(f'Área: {retangulo.area}') #impressao dos calculos
+print(f'Perímetro: {retangulo.perimetro}')  
 
 
