@@ -1,2 +1,2 @@
 # Python_Lamia
-# Apenas Aprendizado para LAMIA
+# Apenas Bootcamp do LAMIA
